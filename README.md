@@ -29,7 +29,7 @@
 ```bash
 OS:        Arch Linux / WM-i3
 Editor:    Neovim
-Terminal:  Alacritty / Zsh / tmux
+Terminal:  Zsh / Alacritty / tmux
 Browser:   Brave 🦁
 ```
 <!--
