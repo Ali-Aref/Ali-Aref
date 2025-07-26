@@ -55,7 +55,7 @@ These are some FOSS projects I’ve contributed to via PRs:
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimanallemyar&layout=compact&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-aref&layout=compact&theme=transparent">
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Ali-Aref&show_icons=true&theme=radical&count_private=true" />
 </p>
