@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Mobile+App+Developer;React+and+React+Native+Lover;Node.js+Backend+Engineer;I+use+Arch+btw+😅" />
 </p>
-<h3 align="center">Full Stack Web & Mobile Developer | Open Source Enthusiast | Linux Lover </h3>
+<h3 align="center">Mobile App Developer | Open Source Enthusiast | Linux Lover </h3>
 
 ---
 
