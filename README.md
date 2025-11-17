@@ -74,14 +74,17 @@ These are some FOSS projects I’ve contributed to via PRs:
   <img alt="Apple" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 </div>
 
-### 📈 GitHub Stats
+### 🔥 Streak
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ali-aref&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=MastooraTurkmen&theme=default"/>
+</picture>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-aref&layout=compact&theme=transparent">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Aref&show_icons=true&theme=radical&count_private=true" />
-</p>
-
+### 📊 Stats
+<div>
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=ali-aref&show_icons=true&theme=codeSTACKr&hide=contribs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-aref&layout=compact&show_icons=true&theme=codeSTACKr" />
+</div>
 ---
 
 _“The best code is the one you don’t have to write twice.”_
