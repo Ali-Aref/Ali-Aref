@@ -45,12 +45,34 @@ These are some FOSS projects I’ve contributed to via PRs:
 > Got a cool open-source project? I’d love to contribute.
 -->
 
-
 ### 📫 Contact
 
 - 🌐 Website: [aliaref.dev](https://aliaref.dev)  
 - 💌 Email: aliaref.dev@gmail.com  
 - 🧳 LinkedIn: [linkedin.com/in/ali-arefjs](https://linkedin.com/in/ali-arefjs)
+
+### 💼 Languages and Tools
+<!-- Row 1 -->
+<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 20px;">
+  <img alt="JavaScript" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="React" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="React-Native" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
+  <img alt="Nextjs" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="Nodejs" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="NestJS" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img alt="Python" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Django" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img alt="Django-Rest" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
+  <img alt="Git" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" width="45" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/github/github-original-wordmark.svg" />
+</div>
+<!-- Row 2 -->
+<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 20px;">
+  <img alt="Neovim" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+  <img alt="Android" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+  <img alt="Apple" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+</div>
 
 ### 📈 GitHub Stats
 
