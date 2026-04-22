@@ -5,35 +5,35 @@
 
 ---
 
-🚀 I’m a passionate developer who loves crafting intuitive digital experiences. I specialize in building fast, reliable apps from backend APIs to mobile UIs.
+I’m a passionate developer who loves crafting intuitive digital experiences. I specialize in building fast, reliable apps from backend APIs to mobile UIs.
 
-### 🧠 Tech Stack
+### Tech Stack
 
 - **Languages**: JavaScript (ES6+), TypeScript, Python
 - **Frontend**: React.js, Next.js, Tailwind CSS, Shadecn UI
 - **Mobile**: React Native, Expo, Custom Dev Builds
 - **Backend**: Node.js (Fastify), Django
 - **Database**: PostgreSQL, Drizzle, Prisma, Sequelize
-- **DevOps**: Docker, GitHub Actions, EAS, Linux (btw 😉)
+- **DevOps**: Docker, GitHub Actions, EAS, Linux
 
 
-### 💻 Currently Working On
+### Currently Working On
 
-- 📱 A cross-platform eCommerce app built with Expo + React Native  
-- 🌍 Full-stack projects using Django REST APIs + React frontend  
-- 🧩 Integrating TanStack Query for complex cache flows
+- A cross-platform eCommerce app built with Expo + React Native  
+- Full-stack projects using Django REST APIs + React frontend  
+- Integrating TanStack Query for complex cache flows
 
 
-### 🛠 Developer Gear
+### Developer Gear
 
 ```bash
 OS:        Arch Linux / WM-i3
 Editor:    Neovim
 Terminal:  Zsh / Alacritty / tmux
-Browser:   Brave 🦁
+Browser:   Brave/Zen
 ```
 <!--
-### 🤝 Open Source Contributions
+### Open Source Contributions
 
 These are some FOSS projects I’ve contributed to via PRs:
 
@@ -45,13 +45,13 @@ These are some FOSS projects I’ve contributed to via PRs:
 > Got a cool open-source project? I’d love to contribute.
 -->
 
-### 📫 Contact
+### Contact
 
-- 🌐 Website: [aliaref.dev](https://aliaref.dev)  
-- 💌 Email: aliaref.dev@gmail.com  
-- 🧳 LinkedIn: [linkedin.com/in/ali-arefjs](https://linkedin.com/in/ali-arefjs)
+- Website: [aliaref.dev](https://aliaref.dev)  
+- Email: aliaref.dev@gmail.com  
+- LinkedIn: [linkedin.com/in/ali-arefjs](https://linkedin.com/in/ali-arefjs)
 
-### 💼 Languages and Tools
+### Languages and Tools
 <!-- Row 1 -->
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 20px;">
   <img alt="JavaScript" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -74,13 +74,13 @@ These are some FOSS projects I’ve contributed to via PRs:
   <img alt="Apple" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 </div>
 
-### 🔥 Streak
+### Streak
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ali-aref&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=MastooraTurkmen&theme=default"/>
 </picture>
 
-### 📊 Stats
+### Stats
 <div>
   <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=ali-aref&show_icons=true&theme=codeSTACKr&hide=contribs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-aref&layout=compact&show_icons=true&theme=codeSTACKr" />
